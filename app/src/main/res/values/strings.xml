@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Basket Ball Score Counter</string>
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+    <string name="reset_button">Reset</string>
+    <string name="three_point">+ 3 Points</string>
+    <string name="two_points">+2 Points</string>
+    <string name="free_throw">Free Throw</string>
+    <string name="result">Game Is Yet to Start</string>
+</resources>
